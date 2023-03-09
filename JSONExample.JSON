@@ -1,0 +1,72 @@
+{
+    "student1":
+    {
+        "_id":"321987635",
+        "firstName": "Sarah",
+        "lastName": "Cohen",
+        "age": 16,
+		"isAdult" : false,
+		"grades": [99,95,80]
+    },
+	
+    "student2":
+    {
+		"_id":"123456789",
+        "firstName": "Michal",
+        "lastName": "Levi",
+        "age": 17,
+        "address":
+		{
+			"street": "Michlin",
+			"buildingNumber": 12,
+			"city": "Jerusalem"
+		}
+    },
+
+    "student3":
+    {
+		"_id":"987654321",
+        "firstName": "Michal",
+        "lastName": "Levi",
+        "age": 17,
+        "startYear": 2021,
+        "grades": [{"C#":100}, {"C++":98}]
+    },
+	
+    "student5":
+    { 
+		"_id":"852963741",
+        "firstName": "Miriam",
+        "lastName": "Cahana",
+        "age": 19,
+		"isAdult" : true
+    },
+	
+    "student6":
+    {
+		"_id":"258741963",
+        "firstName": "Esther",
+        "lastName": "Levi",
+        "age": 17,
+        "address":  
+		{
+			"street": "Harav Abuav",
+			"buildingNumber": 12,
+			"city": "Jerusalem"
+		},
+		"grades": [100,90,80]
+    },
+
+    "student7":
+    {
+		"_id":"321456987",
+        "firstName": "Yael",
+        "lastName": "Sharon",
+        "age": 17,
+        "isAdult": false,
+        "startYear": 2021,
+        "grades": [{"C#":100}, {"C++":98}]
+    }
+}
+
+
